@@ -17,6 +17,63 @@
   .grid-3 {
     grid-template-columns: repeat(3, 1fr);
   }
+
+  /* animation delays */
+
+  .animateLeft{
+    animation-name: fromLeft;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: backwards;
+  }
+
+  .animateRight{
+    animation-name: fromRight;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: backwards;
+  }
+
+  .animatePackage{
+    animation-name: fromRight;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 5s;
+    animation-fill-mode: backwards;
+  }
+
+
+  .animation-delay-1{
+    animation-delay: 1s;
+  }
+
+  .animation-delay-2{
+    animation-delay: 2s;
+  }
+
+  .animation-delay-3{
+    animation-delay: 3s;
+  }
+
+  .animation-delay-4{
+    animation-delay: 4s;
+  }
+
+  .animation-delay-5{
+    animation-delay: 5s;
+  }
+
+  .animation-delay-6{
+    animation-delay: 6s;
+  }
+
+  .animation-delay-7{
+    animation-delay: 7s;
+  }
+  .animation-delay-8{
+    animation-delay: 8s;
+  }
+
   
   /* Margin */
   .my-1 {

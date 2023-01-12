@@ -56,8 +56,8 @@ CSS Animations
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Learn CSS Animations in 20 minutes - For Beginners](https://www.youtube.com/watch?v=SgmNxE9lWcY) - This helped me learn CSS animations in a quick and fun way.
+- [Learn CSS Animations in 15 minutes](https://www.youtube.com/watch?v=YszONjKpgg4) -This helped me learn CSS animations in a quick and fun way. There is also a free CSS Selector Cheatsheet for free.
 
 
 ## Author
