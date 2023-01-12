@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/chat-app-css-illustration)
-- Live Site URL: [Livesite](https://your-live-site-url.com)
+- Live Site URL: [Livesite](https://robert-thaiyah.github.io/chat-app-css-illustration/)
 
 ## My process
 
